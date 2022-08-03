@@ -1,0 +1,5 @@
+.cancel{text-decoration: none}.bg-pay{background-color: #eee;border-radius: 2px}.com-color{color: cadetblue!important}.radio{cursor: pointer}label.radio input{position: absolute;top: 0;left: 0;visibility: hidden;pointer-events: none;justify-content:center ;}label.radio div{padding: 7px 14px;border: 2px solid cadetblue;display: inline-block;color: #000000;border-radius: 3px;text-transform: uppercase;width: 50%;margin-top: 10px;}label.radio input:checked+div{border-color: cadetblue;background-color: cadetblue;color: #fff}.fw-500{font-weight: 400}.lh-16{line-height: 16px}
+
+.card-body{
+    justify-content: center;
+}
